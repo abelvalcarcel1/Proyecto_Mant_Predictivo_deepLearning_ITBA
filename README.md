@@ -30,7 +30,7 @@ Foco del Análisis: El estudio se centra en el Rodamiento 3, cuya degradación e
 
 **Estructura de Archivos a utilizar**: 
 
-Link a Dataset y archivos checkpoint para cargar y optimizar https://drive.google.com/drive/folders/17M7zb2sdt6eryOEmFFYmIhJyjIh2BRjr?usp=sharing
+Link a Dataset y archivos checkpoint para cargar y optimizar https://drive.google.com/drive/folders/17M7zb2sdt6eryOEmFFYmIhJyjIh2BRjr?usp=sharing **IMPORTANTE: DESCARGAR ARCHIVOS .NPY, JSON Y .PTH y adecuar las rutas en la carga de "checkpoint"**
 
 A continuación se detallan los archivos clave generados y guardados en Google Drive, que permiten la reproducibilidad y el análisis del proyecto sin necesidad de re-ejecutar todos los pasos.
 
